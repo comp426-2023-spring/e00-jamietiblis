@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE=cranky antelope scooter couscous 572daf
 
 echo ${EXAMCODE}
